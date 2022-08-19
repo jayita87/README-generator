@@ -24,7 +24,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'What are the contribution guidelines?',
+        message: 'List contributors:',
     },
     {
         type: 'list',
@@ -34,9 +34,26 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'technology',
+        message: 'What are the technology you used?'
+
+    },
+    {
+        type: 'input',
         name: 'test',
         message: 'What are the test instructions?',
     },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What is the usage of this application?'
+    } ,
+    {
+        type: 'input',
+        name: 'screenshot',
+        message: 'Add a screenshot of the application'
+    },
+
     {
         type: 'input',
         name: 'email',
@@ -60,8 +77,8 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions).then((data) => { 
-        writeToFile("README.md", generateMarkdown1(data));
+    inquirer.prompt(questions).then((data) => {
+        writeToFile("README.md", generateMarkdown(data));
     })
 }
 
