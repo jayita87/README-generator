@@ -56,12 +56,12 @@ function generateMarkdown(data) {
 
   ## Table of Contents (Optional)
    * [Installation](#installation)
-   * [🚀][Technologies used:](#technology)
-   * [🚀][Usage](#usage)
-   * [🤝 Include Credits:](#contribution)
+   * [🚀Technologies used:](#technology)
+   * [🚀Usage](#usage)
+   * [🤝Include Credits:](#contribution)
    * [Test](#test)
    * [📫 Questions](#questions)
-   * [⚖️ Add a License](#license)
+   * [⚖️Add a License](#license)
    * [✨ Screenshot of Application:](#screenshot)
    
   ## 🚀 Technologies used:
