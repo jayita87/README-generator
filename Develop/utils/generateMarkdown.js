@@ -64,7 +64,7 @@ function generateMarkdown(data) {
    * [⚖️Add a License](#license)
    * [✨ Screenshot of Application:](#screenshot)
    
-  ## 🚀 Technologies used:
+  ## 🚀Technologies used:
   ${data.technology}
 
   ## Installation
@@ -73,16 +73,16 @@ function generateMarkdown(data) {
  ## Test
  ${data.test}
 
-  ## 🚀 Usage
+  ## 🚀Usage
    ${data.usage}
 
-  ## 🤝 Include Credits:
+  ## 🤝Include Credits:
    ${data.contribution}
 
-   ## ✨ Screenshot of Application:
+   ## ✨Screenshot of Application:
    ${data.screenshot}
 
-   ## 📫 Questions
+   ## 📫Questions
    GitHub profile (https://github.com/${data.github})<br>
 
    📧 email me @ (https://mail.google.com/mail/${data.email})
