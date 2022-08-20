@@ -62,7 +62,7 @@ function generateMarkdown(data) {
    * [Test](#test)
    * [📫 Questions](#questions)
    * [⚖️Add a License](#license)
-   * [✨ Screenshot of Application:](#screenshot)
+   * [✨Screenshot](#screenshot)
    
   ## 🚀Technologies used
   ${data.technology}
@@ -79,7 +79,7 @@ function generateMarkdown(data) {
   ## 🤝Include Credits
    ${data.contribution}
 
-   ## ✨Screenshot of Application
+   ## ✨Screenshot
    ${data.screenshot}
 
    ## 📫Questions
