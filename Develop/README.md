@@ -1,13 +1,13 @@
 # Project's Title
-  kls
+  README-generator
 
   ## ⚖️ Add a License
-  [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)<br>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 
-  (https://www.apache.org/licenses/LICENSE-2.0)  
+  (https://choosealicense.com/licenses/mit/)  
  
   ## 📝 Project's Description
-  sd
+  The project is to create a node.js application to generate README.md file using command line quickly. This allows the project creator to devote more time working on the project.
 
   ## Table of Contents (Optional)
    * [Installation](#installation)
@@ -20,25 +20,25 @@
    * [✨Screenshot](#screenshot)
    
   ## 🚀Technologies used
-  sad
+  javascript, node.js
 
   ## Installation
-   asd
+   No installation needed
 
  ## Test
- sad
+ None
 
   ## 🚀Usage
-   ad
+   This app uses node.js to generate the README.md file by taking input from the user.
 
   ## 🤝Include Credits
-   sads
+   None
 
    ## ✨Screenshot
-   sda
+   
 
    ## 📫Questions
-   GitHub profile (https://github.com/asd)<br>
+   GitHub profile (https://github.com/jayita87)<br>
 
-   📧 email me @ (https://mail.google.com/mail/dsa)
+   📧 email me @ (https://mail.google.com/mail/ jayita.chowdhury.1987@gmail.com)
    
