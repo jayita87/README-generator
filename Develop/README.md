@@ -1,7 +1,7 @@
 # Project's Title
-  README-generator
+  README generator
 
-  ## ⚖️ Add a License
+  ## Add a License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 
   (https://choosealicense.com/licenses/mit/)  
@@ -11,34 +11,34 @@
 
   ## Table of Contents (Optional)
    * [Installation](#installation)
-   * [🚀Technologies used](#technology)
-   * [🚀Usage](#usage)
-   * [🤝Include Credits](#contribution)
+   * [Technologies used](#technology)
+   * [Usage](#usage)
+   * [Include Credits](#contribution)
    * [Test](#test)
-   * [📫 Questions](#questions)
-   * [⚖️Add a License](#license)
-   * [✨Screenshot](#screenshot)
+   * [Questions](#questions)
+   * [Add a License](#license)
+   * [Screenshot](#screenshot)
    
-  ## 🚀Technologies used
-  javascript, node.js
+  ## Technologies used
+  node.js, javascript
 
   ## Installation
-   No installation needed
+   npm needs to install
 
  ## Test
- None
+ none
 
-  ## 🚀Usage
+  ## Usage
    This app uses node.js to generate the README.md file by taking input from the user.
 
-  ## 🤝Include Credits
-   None
+  ## Include Credits
+   none
 
-   ## ✨Screenshot
+   ## Screenshot
    
 
-   ## 📫Questions
+   ## Questions
    GitHub profile (https://github.com/jayita87)<br>
 
-   📧 email me @ (https://mail.google.com/mail/ jayita.chowdhury.1987@gmail.com)
+   📧 email me @ (https://mail.google.com/mail/jayita.chowdhury.1987@gmail.com)
    

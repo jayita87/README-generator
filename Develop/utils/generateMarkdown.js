@@ -41,7 +41,7 @@ function generateMarkdown(data) {
   return `# Project's Title
   ${data.title}
 
-  ## ⚖️ Add a License
+  ## Add a License
   ${renderLicenseBadge(data.license)}<br>
 
   ${renderLicenseSection(data.license)}  
@@ -51,15 +51,15 @@ function generateMarkdown(data) {
 
   ## Table of Contents (Optional)
    * [Installation](#installation)
-   * [🚀Technologies used](#technology)
-   * [🚀Usage](#usage)
-   * [🤝Include Credits](#contribution)
+   * [Technologies used](#technology)
+   * [Usage](#usage)
+   * [Include Credits](#contribution)
    * [Test](#test)
-   * [📫 Questions](#questions)
-   * [⚖️Add a License](#license)
-   * [✨Screenshot](#screenshot)
+   * [Questions](#questions)
+   * [Add a License](#license)
+   * [Screenshot](#screenshot)
    
-  ## 🚀Technologies used
+  ## Technologies used
   ${data.technology}
 
   ## Installation
@@ -68,16 +68,16 @@ function generateMarkdown(data) {
  ## Test
  ${data.test}
 
-  ## 🚀Usage
+  ## Usage
    ${data.usage}
 
-  ## 🤝Include Credits
+  ## Include Credits
    ${data.contribution}
 
-   ## ✨Screenshot
+   ## Screenshot
    ${data.screenshot}
 
-   ## 📫Questions
+   ## Questions
    GitHub profile (https://github.com/${data.github})<br>
 
    📧 email me @ (https://mail.google.com/mail/${data.email})
