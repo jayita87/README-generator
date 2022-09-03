@@ -17,7 +17,10 @@ This app uses node.js to generate the README.md file by taking input from the us
 
 ## Installation 
 No installation needed. The walkthrough video to get started 
-https://github.com/jayita87/README-generator/blob/main/readmeGen.mp4
+
+https://user-images.githubusercontent.com/107072905/188280896-5bd3a2cd-8fcf-497b-a9b8-a8ec9eb7a6e3.mp4
+
+
 
 ## Usage 
 The project is to create a node.js application to generate README.md file using command line quickly. This allows the project creator to devote more time working on the project.
